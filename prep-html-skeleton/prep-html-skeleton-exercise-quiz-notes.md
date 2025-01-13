@@ -8,13 +8,13 @@ Answer the following questions in the provided markdown file before turning in t
 
   # <!DOCTYPE html>
 
-  # <html>
+  # <html></html>
 
-  # <head>
+  # <head></head>
 
-  # <title>
+  # <title></title>
 
-  # <body>
+  # <body></body>
 
 - What type of content belongs within the `<head>` of an HTML document?
 
